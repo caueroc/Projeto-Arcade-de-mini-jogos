@@ -17,7 +17,7 @@ Minijogos:
 - O sistema informa se a resposta está correta ou incorreta
 - O jogador pode jogar novamente ou voltar ao menu principal
 
-2. Cobra na Caixa!
+2. Cobra na Caixa
 
 - Um jogo de sorte e estratégia onde o jogador escolhe uma caixa entre 5 disponíveis
 - A cada rodada, uma cobra e um botão são escondidos aleatoriamente nas caixas
