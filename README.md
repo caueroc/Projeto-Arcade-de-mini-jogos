@@ -30,3 +30,8 @@ Minijogos:
 - As Gousmas podem se dividir ou atacar para aumentar a fúria da oponente
 - Se uma Gousma atinge nível de fúria maior que 5, ela explode e sai do jogo
 - O último jogador com Gousmas vence a partida
+
+Referências:
+- ChatGPT
+- DeepSeek
+- Material de Programação em C (Professor Casseb)
