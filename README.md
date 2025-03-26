@@ -35,3 +35,4 @@ Referências:
 - ChatGPT
 - DeepSeek
 - Material de Programação em C (Professor Casseb)
+- Curso Programação em Linguagem C (Pietro Martins De Oliveira) (Youtube)
