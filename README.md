@@ -2,10 +2,10 @@
 Projeto 01 - Sistema Jogos ARCADE
 
 Desenvolvido por:
--	Cauê Milhomem
--	Daniel Barros
+-	Cauê Milhomem, responsável pelo desenvolvimento inicial do projeto com o menu do jogo, pelo jogo ´Cobra na Caixa´ e pela integração do projeto no GitHub
+-	Daniel Barros, responsável pela análise final do projeto e desenvolvimento dos jogos ´Perguntas e Respostas´ e ´Gousmas War´
 
-Sobre o Projeto
+Sobre o Projeto:
 
 Esse projeto é um arcade de três minijogos desenvolvidos em C, o sistema utiliza o console para interação com o usuário e apresenta um menu principal onde os jogadores podem escolher qual jogo jogar
 
@@ -33,6 +33,5 @@ Minijogos:
 
 Referências:
 - ChatGPT
-- DeepSeek
 - Material de Programação em C (Professor Casseb)
-- Curso Programação em Linguagem C (Pietro Martins De Oliveira) (Youtube)
+- (YouTube) Curso Programação em Linguagem C (Pietro Martins De Oliveira)
