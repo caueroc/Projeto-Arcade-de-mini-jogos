@@ -34,4 +34,4 @@ Minijogos:
 Referências:
 - ChatGPT
 - Material de Programação em C (Professor Casseb)
-- (YouTube) Curso Programação em Linguagem C (Pietro Martins De Oliveira)
+- (YouTube) Curso Programação em Linguagem C (Pietro Martins De Oliveira) https://youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&si=Ey_D3qIJGkJnbvws
