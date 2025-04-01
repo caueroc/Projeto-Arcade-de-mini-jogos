@@ -122,7 +122,8 @@ void cobraNaCaixa() {
 
     do {
         printf("\nOpcoes de nomes disponiveis:\n");
-        for (int i = 0; i < 7; i++) {
+        int i;
+        for (i = 0; i < 7; i++) {
             printf("%d - %s\n", i+1, nomes[i]);
         }
 
@@ -228,7 +229,7 @@ void gousmasWar() {
                             furia4 += furia2;
                         }
                     }
-                } else { 
+                } else{ 
                     if (alvo == 1 && ativa1) {
                         if (atacante == 1) {
                             furia1 += furia3;
@@ -260,7 +261,7 @@ void gousmasWar() {
                 if (receptor == 1 && ativa1) {
                     furia1 += quantidade;
                     furia1 -= quantidade; 
-                    printf("Não pode transferir para a mesma Gousma!\n");
+                    printf("Nao pode transferir para a mesma Gousma!\n");
                 }
                 else if (receptor == 2 && ativa2) {
                     furia2 += quantidade; 
